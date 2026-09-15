@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## Pure Python Advanced Streak - 7 Projects in 7 Days
+## Pure Python Advanced Streak - 7 Projects in 4 Days
 
 This repository contains 7 working Python projects built using **pure Python only**. No Pandas. No SQL. No external data libraries. Just classes, objects, APIs, and logic.
 
