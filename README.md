@@ -1,6 +1,6 @@
 # pure_python_streak
 
-![Status](https://img.shields.io/badge/status-In%20Progress-blue)
+![Status](https://img.shields.io/badge/status-In%100 completed-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -142,7 +142,6 @@ By exploring this repository, you'll understand:
 
 ### Library Management System
 ```python
-from library_management import Library, Member
 
 lib = Library()
 lib.add_book("The Hobbit", "J.R.R. Tolkien")
@@ -154,7 +153,6 @@ lib.return_book("M001", "The Hobbit")
 
 ### Weather Data Fetcher
 ```python
-from weather_fetcher import WeatherFetcher
 
 fetcher = WeatherFetcher(api_key="your_api_key")
 weather = fetcher.get_weather("London")
@@ -163,7 +161,6 @@ print(weather)
 
 ### ETL Pipeline
 ```python
-from etl_pipeline import ETLPipeline
 
 pipeline = ETLPipeline("input_data.csv")
 pipeline.extract()
@@ -219,7 +216,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Sourabh Singh**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sourabh-singh-7b124934/)
 - 🐙 [GitHub](https://github.com/CodeXSourabhsingh)
-- 📧 Email: [Add your email if you want]
+
 
 ---
 
@@ -229,5 +226,5 @@ This challenge is inspired by the principle of **learning fundamentals deeply** 
 
 ---
 
-**Last Updated**: September 2026  
-**Streak Days Completed**: 0/7 ✨
+
+
