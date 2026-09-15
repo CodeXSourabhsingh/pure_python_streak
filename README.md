@@ -1,6 +1,5 @@
 # pure_python_streak
 
-![Status](https://img.shields.io/badge/status-In%100 completed-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
